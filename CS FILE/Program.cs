@@ -13,13 +13,8 @@ namespace better
         static TcpListener listener;
         static void Main(string[] args)
         {
-            Console.WriteLine("Start? Write 'yes' to console");
-            Console.Title = "BetterQuest Server Alexey Tokarev";
-            string a = Console.ReadLine();
             Thread thread = new Thread(ClientObject.lister);
             thread.Start();
-            if (a == "yes")
-            {
                 try
                 {
                     listener = new TcpListener(IPAddress.Any, port);
@@ -41,7 +36,6 @@ namespace better
                     if (listener != null)
                         listener.Stop();
                 }
-            }
            /* else
             {
                 Program2.Main1("");
