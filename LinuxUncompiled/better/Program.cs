@@ -204,7 +204,7 @@ namespace better
                     string message = builder.ToString();
                     try
                     {
-                    if (message != "WhatArray" || message != "Connection")
+                    if (message != "WhatArray" && message != "Connection")
                     {
                         if (message.Substring(0, Program.password.Length) != Program.password)
                         {

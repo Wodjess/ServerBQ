@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BYodWtYMvd8/sUYP7QMaG0AjnzjEpFxQa0Ja4vqspfxc+pMYoX1qRXppS87ivKyHhwfOH02Yy+97FkIE1dea3w==",
+  "dgSpecHash": "ctRHICmftTxGjbDwGeSeMGWsgAss64SOMUtA9KBykUw8h/xHNPJrKms8X4YSCuIkBQQUK/2rcXYMzXJLEdOPzQ==",
   "success": true,
   "projectFilePath": "D:\\Важные файлы\\better\\better\\better.csproj",
   "expectedPackageFiles": [
@@ -8,9 +8,6 @@
     "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.13\\microsoft.netcore.app.runtime.win-x64.5.0.13.nupkg.sha512",
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.13.nupkg.sha512",
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.13\\microsoft.aspnetcore.app.runtime.win-x64.5.0.13.nupkg.sha512",
     "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
