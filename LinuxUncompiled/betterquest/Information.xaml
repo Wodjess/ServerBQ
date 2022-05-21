@@ -1,0 +1,22 @@
+﻿<Page x:Class="betterquest.Information"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:betterquest"
+      mc:Ignorable="d" 
+      d:DesignHeight="430" d:DesignWidth="800"
+      Title="Information">
+    <Grid Background="Transparent">
+        <Border CornerRadius="2" Background="#2d2d3d">
+            <Image Margin="10,320,689,10" Source="/Main_Logo.png" Stretch="Fill"/>
+        </Border>
+        <TextBlock Text="Сделано в рамках олимпиады" Foreground="White" FontFamily="Arial Black" FontSize="24" Margin="185,32,185,360"/>
+        <TextBlock Text="Токаревым Алексеем" Foreground="White" FontFamily="Arial Black" FontSize="24" Margin="250,60,250,332" x:Name="TheLastText"/>
+        <TextBlock Text="Версия: 1.1 (Стабильная)" Foreground="White" FontFamily="Arial Black" FontSize="24" Margin="119,337,338,55"/>
+        <TextBlock Text="При возникновении проблем, пожалуйста скачайте последнюю версию" Foreground="White" FontFamily="Arial Black" FontSize="24" Margin="44,103,44,262" TextWrapping="Wrap" x:Name="LetShowText"/>
+        <Button Content="Ссылка на проект" Margin="315,192,315,192" FontFamily="Arial Black" Background="#2d2d3d" Foreground="White" Click="Button_Click" x:Name="LetsShowBtn" />
+        <Button Content="Ссылка на соц сеть" Margin="119,375,538,26" FontFamily="Arial Black" Background="#2d2d3d" Foreground="White" Click="Button_Click_1" />
+        <Button Content="Обратно" Margin="267,375,390,26" FontFamily="Arial Black" Background="#2d2d3d" Foreground="White" Click="Button_Click_2" />
+    </Grid>
+</Page>

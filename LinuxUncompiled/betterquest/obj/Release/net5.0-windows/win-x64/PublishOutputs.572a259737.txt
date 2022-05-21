@@ -1,0 +1,2 @@
+D:\Важные файлы\betterquest\betterquest\bin\Release\net5.0-windows\publish\win-x64\betterquest.pdb
+D:\Важные файлы\betterquest\betterquest\bin\Release\net5.0-windows\publish\win-x64\betterquest.exe

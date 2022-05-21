@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Main_Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\Miratrix-Normal.otf" />
+    <None Remove="Main_Logo.png" />
+    <None Remove="NotEnoghtImage.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Main_Logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fonts\Miratrix-Normal.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Main_Logo.png" />
+    <Resource Include="NotEnoghtImage.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenDialog" Version="1.1.1" />
+    <PackageReference Include="WindowsAPICodePack-Shell" Version="1.1.1" />
+  </ItemGroup>
+
+</Project>

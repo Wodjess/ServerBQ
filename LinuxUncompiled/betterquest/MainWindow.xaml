@@ -1,0 +1,18 @@
+﻿<Window x:Class="betterquest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:betterquest"
+        mc:Ignorable="d"
+        Title="BetterQuest" Height="450" Width="800" ResizeMode="NoResize" Visibility="Visible" WindowStyle="None" AllowsTransparency="True" Background="Transparent" Icon="/Main_Logo.png">
+    <Grid Background="Transparent">
+        <Grid Opacity="1" x:Name="FirstGridAvalible">
+            <Border Background="#2d2d3d" CornerRadius="3"/>
+            <TextBlock Text="Waiting games list... Downloading Data From server...." FontFamily="Arial Black" FontSize="36" Foreground="White" Margin="198,210,198,67" TextWrapping="Wrap" />
+            <Frame Name="MainFrame" NavigationUIVisibility="Hidden" Margin="0,20,0,0" />
+            <TextBlock Text="BETTER QUEST" FontFamily="Arial Black" FontSize="22" Margin="128,11,128,417" MouseLeftButtonDown="event1" TextAlignment="Center" Foreground="White"/>
+            <Button Click="Button_Exit_Event" Background="#2d1d3d" Margin="775,0,0,428" FontFamily="Arial Black" FontSize="18"/>
+        </Grid>
+    </Grid>
+</Window>

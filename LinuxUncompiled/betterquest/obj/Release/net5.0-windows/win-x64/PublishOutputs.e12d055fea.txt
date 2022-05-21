@@ -1,0 +1,2 @@
+C:\Users\Алексей\source\repos\betterquest\betterquest\bin\Release\net5.0-windows\publish\win-x64\betterquest.pdb
+C:\Users\Алексей\source\repos\betterquest\betterquest\bin\Release\net5.0-windows\publish\win-x64\betterquest.exe
