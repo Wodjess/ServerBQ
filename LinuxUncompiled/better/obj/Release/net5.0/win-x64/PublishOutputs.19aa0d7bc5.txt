@@ -1,0 +1,7 @@
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\better.pdb
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\Settings.job
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\clrcompression.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\clrjit.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\coreclr.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\mscordaccore.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\better.exe

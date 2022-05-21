@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y40rkKNplV4J8EIl7ZvK2khAOCVFmFFVFs8zcQ78P5xwwaCpqSdsE5M41if+ez4iD4hYEZhN5yheq88poCXbig==",
+  "success": true,
+  "projectFilePath": "D:\\Важные файлы\\better\\better\\better.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.21909.12000\\microsoft.sharepointonline.csom.16.1.21909.12000.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.13\\microsoft.netcore.app.runtime.linux-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.13\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.13\\microsoft.netcore.app.host.linux-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

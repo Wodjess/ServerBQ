@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "better/1.0.0": {
+        "dependencies": {
+          "Microsoft.SharePointOnline.CSOM": "16.1.21909.12000"
+        },
+        "runtime": {
+          "better.dll": {}
+        }
+      },
+      "Microsoft.SharePointOnline.CSOM/16.1.21909.12000": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Client.Policy.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.Office.Client.TranslationServices.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.Office.SharePoint.Tools.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.Online.SharePoint.Client.Tenant.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.ProjectServer.Client.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.DocumentManagement.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Publishing.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Runtime.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Search.Applications.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Search.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.Taxonomy.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.UserProfiles.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.WorkflowServices.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          },
+          "lib/netstandard2.0/Microsoft.SharePoint.Client.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.21909.12000"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "better/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePointOnline.CSOM/16.1.21909.12000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ay/lejaPfK4OfFftXzLvaJMW+EDaa6K/YnJUbvQc/7fRkwrUAolSzbQH/89acQkFHPG8JPM2wI09ErQ/Dj3PsA==",
+      "path": "microsoft.sharepointonline.csom/16.1.21909.12000",
+      "hashPath": "microsoft.sharepointonline.csom.16.1.21909.12000.nupkg.sha512"
+    }
+  }
+}

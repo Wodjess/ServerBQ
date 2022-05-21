@@ -1,0 +1,3 @@
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\linux-x64\better.pdb
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\linux-x64\Settings.job
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\linux-x64\better

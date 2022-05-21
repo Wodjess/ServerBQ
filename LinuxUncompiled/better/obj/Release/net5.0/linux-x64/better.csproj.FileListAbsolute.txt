@@ -1,0 +1,424 @@
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\better
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Settings.job
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\better.deps.json
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\better.runtimeconfig.json
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\better.runtimeconfig.dev.json
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\better.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\ref\better.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\better.pdb
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.Office.Client.Policy.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.ProjectServer.Client.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Search.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.CSharp.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.VisualBasic.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.Win32.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\Microsoft.Win32.Registry.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.AppContext.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Buffers.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Collections.Concurrent.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Collections.Immutable.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Collections.NonGeneric.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Collections.Specialized.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Collections.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.Annotations.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Configuration.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Console.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Core.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Data.Common.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Data.DataSetExtensions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Data.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Contracts.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Debug.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Process.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.StackTrace.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Tools.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.TraceSource.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Tracing.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Drawing.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Drawing.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Dynamic.Runtime.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Formats.Asn1.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Globalization.Calendars.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Globalization.Extensions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Globalization.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.Brotli.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.FileSystem.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.ZipFile.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.IsolatedStorage.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.Pipes.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.IO.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Linq.Expressions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Linq.Parallel.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Linq.Queryable.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Linq.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Memory.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Http.Json.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Http.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.HttpListener.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Mail.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.NameResolution.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.NetworkInformation.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Ping.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Requests.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Security.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.ServicePoint.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.Sockets.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.WebClient.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.WebHeaderCollection.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.WebProxy.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.WebSockets.Client.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.WebSockets.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Net.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Numerics.Vectors.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Numerics.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ObjectModel.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Private.DataContractSerialization.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Private.Uri.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Private.Xml.Linq.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Private.Xml.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.DispatchProxy.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Emit.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Extensions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Metadata.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.TypeExtensions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Reflection.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Resources.Reader.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Resources.ResourceManager.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Resources.Writer.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Extensions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Handles.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.InteropServices.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Intrinsics.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Loader.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Numerics.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Json.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Runtime.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.AccessControl.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Claims.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Cng.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Csp.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Principal.Windows.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.Principal.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.SecureString.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Security.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ServiceModel.Web.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ServiceProcess.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Text.Encoding.CodePages.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Text.Encoding.Extensions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Text.Encoding.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Text.Encodings.Web.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Text.Json.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Text.RegularExpressions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Channels.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Overlapped.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Thread.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.ThreadPool.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.Timer.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Threading.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Transactions.Local.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Transactions.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.ValueTuple.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Web.HttpUtility.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Web.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Windows.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.Linq.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.ReaderWriter.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.Serialization.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.XDocument.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.XPath.XDocument.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.XPath.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.XmlDocument.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.XmlSerializer.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Xml.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\WindowsBase.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\mscorlib.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\netstandard.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\System.Private.CoreLib.dll
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\createdump
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.IO.Compression.Native.a
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.IO.Compression.Native.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.Native.a
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.Native.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.Net.Security.Native.a
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.Net.Security.Native.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.a
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libclrjit.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libcoreclr.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libcoreclrtraceptprovider.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libdbgshim.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libhostfxr.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libhostpolicy.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libmscordaccore.so
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\linux-x64\libmscordbi.so
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.AssemblyInfoInputs.cache
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.AssemblyInfo.cs
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.csproj.CoreCompileInputs.cache
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.csproj.CopyComplete
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.dll
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\ref\better.dll
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.pdb
+C:\Users\Wodjess\source\repos\better\better\obj\Release\net5.0\linux-x64\better.genruntimeconfig.cache
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\better
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Settings.job
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\better.deps.json
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\better.runtimeconfig.json
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\better.runtimeconfig.dev.json
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\better.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\ref\better.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\better.pdb
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.Office.Client.Policy.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.Office.Client.TranslationServices.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.Office.SharePoint.Tools.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.ProjectServer.Client.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Publishing.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Runtime.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Search.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.SharePoint.Client.dll
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.AssemblyInfoInputs.cache
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.AssemblyInfo.cs
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.csproj.CoreCompileInputs.cache
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.csproj.CopyComplete
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.dll
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\ref\better.dll
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.pdb
+D:\Важные файлы\better\better\obj\Release\net5.0\linux-x64\better.genruntimeconfig.cache
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.CSharp.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.VisualBasic.Core.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.VisualBasic.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.Win32.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\Microsoft.Win32.Registry.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.AppContext.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Buffers.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Collections.Concurrent.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Collections.Immutable.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Collections.NonGeneric.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Collections.Specialized.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Collections.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.Annotations.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.DataAnnotations.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.TypeConverter.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ComponentModel.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Configuration.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Console.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Core.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Data.Common.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Data.DataSetExtensions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Data.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Contracts.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Debug.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Process.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.StackTrace.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Tools.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.TraceSource.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Diagnostics.Tracing.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Drawing.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Drawing.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Dynamic.Runtime.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Formats.Asn1.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Globalization.Calendars.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Globalization.Extensions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Globalization.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.Brotli.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.FileSystem.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.ZipFile.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.Compression.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.AccessControl.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.Watcher.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.FileSystem.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.IsolatedStorage.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.MemoryMappedFiles.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.Pipes.AccessControl.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.Pipes.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.IO.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Linq.Expressions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Linq.Parallel.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Linq.Queryable.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Linq.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Memory.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Http.Json.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Http.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.HttpListener.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Mail.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.NameResolution.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.NetworkInformation.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Ping.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Requests.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Security.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.ServicePoint.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.Sockets.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.WebClient.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.WebHeaderCollection.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.WebProxy.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.WebSockets.Client.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.WebSockets.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Net.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Numerics.Vectors.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Numerics.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ObjectModel.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Private.DataContractSerialization.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Private.Uri.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Private.Xml.Linq.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Private.Xml.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.DispatchProxy.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Emit.Lightweight.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Emit.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Extensions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Metadata.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.TypeExtensions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Reflection.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Resources.Reader.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Resources.ResourceManager.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Resources.Writer.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Extensions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Handles.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.InteropServices.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Intrinsics.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Loader.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Numerics.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Formatters.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Json.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.Xml.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.Serialization.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Runtime.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.AccessControl.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Claims.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Algorithms.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Cng.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Csp.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Encoding.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.Primitives.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Principal.Windows.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.Principal.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.SecureString.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Security.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ServiceModel.Web.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ServiceProcess.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Text.Encoding.CodePages.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Text.Encoding.Extensions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Text.Encoding.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Text.Encodings.Web.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Text.Json.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Text.RegularExpressions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Channels.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Overlapped.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.Dataflow.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.Extensions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.Parallel.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Tasks.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Thread.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.ThreadPool.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.Timer.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Threading.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Transactions.Local.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Transactions.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.ValueTuple.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Web.HttpUtility.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Web.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Windows.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.Linq.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.ReaderWriter.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.Serialization.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.XDocument.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.XPath.XDocument.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.XPath.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.XmlDocument.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.XmlSerializer.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Xml.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\WindowsBase.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\mscorlib.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\netstandard.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\System.Private.CoreLib.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\createdump
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.IO.Compression.Native.a
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.IO.Compression.Native.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.Native.a
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.Native.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.Net.Security.Native.a
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.Net.Security.Native.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.a
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libclrjit.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libcoreclr.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libcoreclrtraceptprovider.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libdbgshim.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libhostfxr.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libhostpolicy.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libmscordaccore.so
+D:\Важные файлы\better\better\bin\Release\net5.0\linux-x64\libmscordbi.so

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+hLJGV1GaK35iCzh1UYzjt8g1ZuwBdn9evKY8Bae1LT0qx38g23K7SS4fOwJycKNZcYGlWIA47wYlCKv2iH9A==",
+  "success": true,
+  "projectFilePath": "D:\\Важные файлы\\better\\better\\better.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.21909.12000\\microsoft.sharepointonline.csom.16.1.21909.12000.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\5.0.13\\microsoft.netcore.app.host.linux-arm.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

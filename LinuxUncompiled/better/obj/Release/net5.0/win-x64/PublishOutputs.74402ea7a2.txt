@@ -1,0 +1,7 @@
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\better.pdb
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\Settings.job
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\clrcompression.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\clrjit.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\coreclr.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\mscordaccore.dll
+D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\better.exe

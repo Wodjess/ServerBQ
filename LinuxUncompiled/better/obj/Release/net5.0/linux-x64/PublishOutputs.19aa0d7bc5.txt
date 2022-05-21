@@ -1,0 +1,3 @@
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\better.pdb
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\Settings.job
+C:\Users\Wodjess\source\repos\better\better\bin\Release\net5.0\publish\better
