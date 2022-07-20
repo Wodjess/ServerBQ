@@ -1,14 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ctRHICmftTxGjbDwGeSeMGWsgAss64SOMUtA9KBykUw8h/xHNPJrKms8X4YSCuIkBQQUK/2rcXYMzXJLEdOPzQ==",
+  "dgSpecHash": "+Et1lVsC2cDC5/1r1ZBEMS5aKemGURcM0JEhuFOEs5sbKhDwa5oPPxrYC/84OMLGWsu+/s07Vy0i3QhJOxgKNw==",
   "success": true,
-  "projectFilePath": "D:\\Важные файлы\\better\\better\\better.csproj",
+  "projectFilePath": "C:\\Program Files\\project\\Важные файлы\\better\\better\\better.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.21909.12000\\microsoft.sharepointonline.csom.16.1.21909.12000.nupkg.sha512",
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\a\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.21909.12000\\microsoft.sharepointonline.csom.16.1.21909.12000.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.17\\microsoft.netcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

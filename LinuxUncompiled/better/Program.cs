@@ -82,9 +82,10 @@ namespace better
             while (true)
             {
                 Console.Clear();
-                for (int i = 0; i < Program.array.Length; i++)
+                for (int i = 0; i < Program.array.Length - 1; i++)
                 {
-                    Console.WriteLine("["+i+"] "+Program.array[i]);
+                    int i1 = i;
+                    Console.WriteLine("["+(i1 + 1)+"] "+Program.array[i]);
                 }
                 try
                 {
@@ -93,8 +94,9 @@ namespace better
                     Console.WriteLine("2 - Delete an array element");
                     Console.WriteLine("3 - Change password");
                     Console.WriteLine("4 - Clear all errors");
+                    Console.WriteLine("5 - Backups");
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("5 - Exit");
+                    Console.WriteLine("6 - Exit");
                     Console.ForegroundColor = ConsoleColor.White;
                     if (Program.errors != "")
                     {
@@ -152,6 +154,34 @@ namespace better
                     }
                     if (thenumber == 5)
                     {
+                        Console.WriteLine("Due to the complexity of integration into different environments, we will limit ourselves to a string string with data");
+                        Console.WriteLine();
+                        Console.WriteLine("What you want to do?");
+                        Console.WriteLine("Create backup - 1");
+                        Console.WriteLine("Load backup - 2");
+                        string temparrstring = Console.ReadLine();
+                        Console.WriteLine();
+                        if (temparrstring == "1")
+                        {
+                            for (int i = 0; i < Program.array.Length; i++)
+                            {
+                                Console.Write(Program.array[i]);
+                            }
+                            Console.ReadLine();
+                        }
+                        if (temparrstring == "2")
+                        {
+                            Console.WriteLine("Paste your string here");
+                            string backupstring = Console.ReadLine();
+                            Program.array = backupstring.Split('?');
+                            for (int i = 0; i < Program.array.Length - 1; i++)
+                            {
+                                Program.array[i] += "➽";
+                            }
+                        }
+                    }
+                    if (thenumber == 6)
+                    {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("All your data will be erased");
                         Console.ForegroundColor = ConsoleColor.White;
@@ -160,6 +190,7 @@ namespace better
                         Console.ForegroundColor = ConsoleColor.Green;
                         if (Console.ReadLine() == "Y")
                         {
+                            Console.ForegroundColor = ConsoleColor.White;
                             System.Environment.Exit(0);
                         }
                         Console.ForegroundColor = ConsoleColor.White;

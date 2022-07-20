@@ -1,3 +1,2 @@
 D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\better.pdb
-D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\Settings.job
 D:\Важные файлы\better\better\bin\Release\net5.0\publish\win-x64\better.exe

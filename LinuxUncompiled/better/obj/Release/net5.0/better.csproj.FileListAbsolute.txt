@@ -93,3 +93,35 @@ D:\Важные файлы\better\better\obj\Release\net5.0\better.dll
 D:\Важные файлы\better\better\obj\Release\net5.0\ref\better.dll
 D:\Важные файлы\better\better\obj\Release\net5.0\better.pdb
 D:\Важные файлы\better\better\obj\Release\net5.0\better.genruntimeconfig.cache
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\better.exe
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Settings.job
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\better.deps.json
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\better.runtimeconfig.json
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\better.runtimeconfig.dev.json
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\better.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\better.pdb
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.Office.Client.Policy.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.Office.Client.TranslationServices.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.Office.SharePoint.Tools.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.ProjectServer.Client.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.Publishing.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.Runtime.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.Search.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Program Files\project\Важные файлы\better\better\bin\Release\net5.0\Microsoft.SharePoint.Client.dll
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.csproj.AssemblyReference.cache
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.AssemblyInfoInputs.cache
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.AssemblyInfo.cs
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.csproj.CoreCompileInputs.cache
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.csproj.CopyComplete
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.dll
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\refint\better.dll
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.pdb
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\better.genruntimeconfig.cache
+C:\Program Files\project\Важные файлы\better\better\obj\Release\net5.0\ref\better.dll
